@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.image_grid {
+  display: inline-block;
+  padding: 12px;
+  margin: 10px;
+}
+
+.image {
+  border-radius: 60px;
+}
+
+.name {
+  color: gray;
+  font-size: 18px;
+  margin-top: 8px;
+}
+
+.button3 {
+  display: block;
+  padding: 0.3em 1.2em;
+  font-size: 20px;
+  margin: 20px auto;
+  border-radius: 2em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  background-color: #4eb5f1;
+  text-align: center;
+  transition: all 0.2s;
+}
+.button3:hover {
+  background-color: #4095c6;
+}
